@@ -1,6 +1,6 @@
 # kotlinx-html-vertx3
 
-Adapter to work with vertx3 `WriteStream`
+Adapter for [kotlinx.html](https://github.com/Kotlin/kotlinx.html) to work with vertx3 `WriteStream`
 
 so you can write
 
